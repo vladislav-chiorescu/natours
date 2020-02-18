@@ -1,6 +1,6 @@
 # natours
 
-This is a landing page designed for my portfolio specifically to show new CSS properties and techniques such as animations, advanced responsive designes, CSS architecture and much more.
+This is a landing page designed for my portfolio specifically to show new CSS properties and techniques such as animations, advanced responsive design, CSS architecture and much more.
 
 ## Project features
 
